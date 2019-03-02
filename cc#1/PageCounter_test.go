@@ -27,7 +27,7 @@ func TestProcessOne(t *testing.T) {
 		return
 	}
 
-	if n != 22 {
-		t.Errorf("Unexpected word count (22), got %d", n)
+	if n != 23 {
+		t.Errorf("Unexpected word count (23), got %d", n)
 	}
 }

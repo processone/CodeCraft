@@ -16,7 +16,7 @@
 								"text/html; charset=iso-8859-1"
 							],
 							"Date": [
-								"Wed, 27 Feb 2019 17:32:03 GMT"
+								"Sat, 02 Mar 2019 15:21:44 GMT"
 							],
 							"Location": [
 								"https://www.process-one.net/en/"
@@ -49,13 +49,13 @@
 								"text/html; charset=utf-8"
 							],
 							"Date": [
-								"Wed, 27 Feb 2019 17:32:04 GMT"
+								"Sat, 02 Mar 2019 15:21:45 GMT"
 							],
 							"Expires": [
 								"Mon, 26 Jul 1997 05:00:00 GMT"
 							],
 							"Last-Modified": [
-								"Wed, 27 Feb 2019 17:32:04 GMT"
+								"Sat, 02 Mar 2019 15:21:45 GMT"
 							],
 							"Pragma": [
 								"no-cache"
@@ -85,7 +85,7 @@
 		{
 			"Steps": [
 				{
-					"RequestURL": "https://fluux.io/",
+					"RequestURL": "https://fluux.io",
 					"Method": "GET",
 					"Response": {
 						"Status": "200 OK",
@@ -104,10 +104,10 @@
 								"text/html; charset=utf-8"
 							],
 							"Date": [
-								"Wed, 27 Feb 2019 17:32:09 GMT"
+								"Sat, 02 Mar 2019 15:21:52 GMT"
 							],
 							"Etag": [
-								"W/\"66441664cbdd3eda76f20c467360cb8d\""
+								"W/\"cf02e3fdd0989dc611caf00a35630ffc\""
 							],
 							"Public-Key-Pins": [
 								"pin-sha256=\"nim41Z7ddoyymPvhXUqTHaYQcqN9jQvPTbVJ/mnbgyE=\"; max-age=2592000; includeSubDomains"
@@ -116,7 +116,7 @@
 								"nginx"
 							],
 							"Set-Cookie": [
-								"_ejsaas-rails_session=MjBuTzB5dHhId1pVdmUrUkVMRHdsQnpxUGwxQVZ6NEY2WmtXREhUWThUL3JmMTY0UlZmR3NEazEydmMxejNkZllOdEV1dld3cFdvRnVBb0UvVGVwYWxoUmw3SU9qenVjMldMRFhldzFpL1BjUmxrT2hBU1dMZTNna2JTVmoveUpaWHlNVVN3d3phK3E0V3hEL3VFSWx3PT0tLTg0ckZOMlZRUHovL04zVDNuMlY1bEE9PQ%3D%3D--20f68daa9f4a44691d9a3ee8f56370185494f3f3; path=/; secure; HttpOnly"
+								"_ejsaas-rails_session=Vko1a2xtT1p0djFGTDNZYnd6WFlkMXg3cCtCVVFVUWR1ME5pRk9qeEU4c2FvcEtQOVdIK1EyanlIT2l0OG94WEc0OXFaSFFRWmwrTnF0MTRTdEl1VkttYUc1WDBPWFZPUmZvRXhwaHNuZC83cElNL3A0Z0dDSU1oMU1JOXBxbUVHaFdPbklDYnFMLzBqWS80K005WEhRPT0tLUZqMEtyY1QvZmdHcVZlaXBONW9hd3c9PQ%3D%3D--44719379bcbdef038d93cf4a4e8e6866758b1945; path=/; secure; HttpOnly"
 							],
 							"Status": [
 								"200 OK"
@@ -133,10 +133,10 @@
 								"DENY"
 							],
 							"X-Request-Id": [
-								"0cb2a4a7-4c96-4598-be72-6d2f05620a89"
+								"266ce985-8084-479b-8c84-3da85f59b873"
 							],
 							"X-Runtime": [
-								"0.086591"
+								"0.086612"
 							],
 							"X-Xss-Protection": [
 								"1; mode=block"
